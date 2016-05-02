@@ -134,10 +134,14 @@ strong {
   font-weight: bold;
 }
 
+div{
+  align-items: center;
+}
+
 img {
   color: transparent;
   font-size: 0;
-  vertical-align: middle;
+  vertical-align: center;
 /*
   For IE.
   http://css-tricks.com/ie-fix-bicubic-scaling-for-images

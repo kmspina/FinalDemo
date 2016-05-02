@@ -1,0 +1,25 @@
+div{
+  align-items: center;
+}
+
+img{
+  align-items: center;
+  border-radius: 20px;
+}
+
+img.align-center {
+  display: block;
+  margin: 0px auto;
+}
+img.medium{
+  width: 250px;
+  height: 250px;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+nav{
+  text-align: center;
+}

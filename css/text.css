@@ -9,7 +9,16 @@
 ----------------------------------------------------------------------------------------------------*/
 
 body {
-  font: 13px/1.5 "Helvetica Neue", Arial, "Liberation Sans", FreeSans, sans-serif;
+  font: 16px/1.5 "Helvetica Neue", Arial, "Liberation Sans", FreeSans, sans-serif;
+  text-align: center;
+}
+
+div{
+  align-items: center;
+}
+
+a{
+  text-decoration: underline;
 }
 
 pre,
@@ -24,6 +33,10 @@ hr {
   height: 0;
 }
 
+nav{
+  font-size: 25px;
+  font-style: oblique;
+}
 /* `Headings
 ----------------------------------------------------------------------------------------------------*/
 
@@ -36,11 +49,11 @@ h2 {
 }
 
 h3 {
-  font-size: 21px;
+  font-size: 20px;
 }
 
 h4 {
-  font-size: 19px;
+  font-size: 18px;
 }
 
 h5 {
